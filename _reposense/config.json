@@ -1,0 +1,10 @@
+{
+	"ignoreGlobList": ["**.java", "collate**"],
+	"authors":
+	[
+		{
+			"githubId": "nbriannl",
+			"displayName": "Nbr"
+		}
+	]
+}
