@@ -1,2 +1,10 @@
-Repository's Location,Branch,Author's GitHub ID,Author's Display Name,Author's Git Author Name,Ignore Glob List
-https://github.com/reposense/testrepo-Beta.git,master,nbriannl,Nbr,,
+{
+	"ignoreGlobList": ["**.java", "collate**"],
+	"authors":
+	[
+		{
+			"githubId": "nbriannl",
+			"displayName": "Nbr"
+		}
+	]
+}
