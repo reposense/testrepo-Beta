@@ -1,5 +1,6 @@
 {
 	"ignoreGlobList": ["**.java", "collate**"],
+	"ignoreCommitList": [""],
 	"authors":
 	[
 		{
