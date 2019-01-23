@@ -1,0 +1,2 @@
+test file for RuntimeException due to ambiguous argument in git rev-list
+Issue https://github.com/reposense/RepoSense/issues/399
